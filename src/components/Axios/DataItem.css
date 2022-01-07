@@ -1,0 +1,9 @@
+.data {
+  margin: 5px;
+  padding: 5px;
+  border: solid black 5px !important;
+  border-radius: 20px !important;
+  float: left;
+  width: 300px;
+  height: 300px;
+}
